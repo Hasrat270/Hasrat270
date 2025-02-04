@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasrat</h1>
+<h1 align="center">Hi <img width="42px" src="https://github.com/user-attachments/assets/26b37fa8-51f7-4399-87ee-ee9ec535e58d"> , I'm Hasrat</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="hasrat270" /> </p>
