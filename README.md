@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasrat</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="hasrat270" /> </p>
 
@@ -7,25 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently doing Bachelors of Science in **(Software Engineering)**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently Improving and learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN projects**
-
-- 🤝 I’m looking for help with **MERN**
+- 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 👨‍💻 All of my projects are available at [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about *React, MongoDB, NodeJS, JavaScript, Express, Tailwind CSS**
 
 - 📫 How to reach me **hasrat3701@gmail.com**
 
 - 📄 Know about my experiences [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I think i am a Funny guy ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
