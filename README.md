@@ -9,7 +9,7 @@
 
 <div <p  align="left"> 
   <a   href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="200px" src="https://github-profile-trophy.vercel.app/?username=hasrat270" alt="hasrat270" />
+    <img height="180px" src="https://github-profile-trophy.vercel.app/?username=hasrat270&margin-w=10&margin-h=10" alt="hasrat270" />
   </a> 
 </p>
 </div>
