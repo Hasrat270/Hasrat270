@@ -86,7 +86,6 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasrat270&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 <!-- Start -->
-```html
 <div align="center">
   <h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=🔥+My+GitHub+Journey" alt="Typing SVG" />
@@ -138,7 +137,7 @@ const developer = {
 
 ## 💼 What I Do
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
