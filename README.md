@@ -85,10 +85,46 @@ const developer = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasrat270&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+<!-- Start -->
+```html
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=🔥+My+GitHub+Journey" alt="Typing SVG" />
+  </h2>
+  
+  <p>
+    <em>Every green square tells a story of late nights, breakthrough moments, and pure coding passion</em>
+  </p>
+  
+  <img src="https://ghchart.rshah.org/39d353/Hasrat270" 
+       alt="GitHub Contribution Chart" 
+       width="100%" />
+  
+  <p>
+    <strong>365 days of commitment • Countless lines of code • One developer's dedication</strong>
+  </p>
+  
+  <details>
+    <summary>📈 <strong>What this heatmap represents</strong></summary>
+    <br>
+    <p align="left">
+      Each square represents a day in my coding journey:<br><br>
+      🟩 <strong>Dark Green:</strong> Heavy coding days - the flow state hits different<br>
+      🟢 <strong>Medium Green:</strong> Steady progress - consistency is key<br>
+      🌱 <strong>Light Green:</strong> Learning days - absorbing new knowledge<br>
+      ⬜ <strong>Gray:</strong> Rest days - even machines need maintenance<br><br>
+      <em>"The best way to predict the future is to code it, one commit at a time."</em>
+    </p>
+  </details>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00d4aa/Hasrat270" alt="GitHub Contribution Chart" width="100%" />
+  <sub>💡 <strong>Fun fact:</strong> My longest streak was fueled by pure determination and way too much coffee ☕</sub>
 </div>
+```
+<!-- End -->
 
 ---
 
