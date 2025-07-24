@@ -137,7 +137,7 @@ const developer = {
 
 ## 💼 What I Do
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
