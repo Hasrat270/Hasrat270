@@ -74,7 +74,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasrat270&theme=tokyonight" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasrat270&theme=tokyonight" 
        alt="GitHub Streak" 
        onerror="this.src='https://via.placeholder.com/495x195/1a1b27/7aa2f7?text=Stats+Unavailable'" />
 </div>
