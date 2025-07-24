@@ -10,7 +10,10 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+<table>
+<tr>
+<td width="55%" align="left">
 
 ```javascript
 const developer = {
@@ -33,6 +36,16 @@ const developer = {
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img alt="Coding" width="100%" style="border-radius: 15px; margin: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -62,6 +75,16 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasrat270&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🟢 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasrat270&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00d4aa/Hasrat270" alt="GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
@@ -105,8 +128,8 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=YOUR_PROJECT_1&theme=tokyonight)](https://github.com/Hasrat270/YOUR_PROJECT_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=YOUR_PROJECT_2&theme=tokyonight)](https://github.com/Hasrat270/YOUR_PROJECT_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=Movies_App_By_Hasrat&theme=tokyonight)](https://github.com/Hasrat270/Movies_App_By_Hasrat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=Mern_Stack_Chat_App_by_hasrat&theme=tokyonight)](https://github.com/Hasrat270/Mern_Stack_Chat_App_by_hasrat)
 
 </div>
 
@@ -115,7 +138,7 @@ const developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasrat270&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -170,7 +193,7 @@ graph TD
 
 **⭐ Star my repositories if you find them interesting!**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
