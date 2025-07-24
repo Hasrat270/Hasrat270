@@ -1,133 +1,181 @@
-<h1 align="center">Hi <img width="42px" src="https://github.com/user-attachments/assets/26b37fa8-51f7-4399-87ee-ee9ec535e58d"> , I'm Hasrat</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="hasrat270" /> 
-</p>
-<hr>
-<img  src="https://github.com/user-attachments/assets/6f3d7ebd-7573-423d-b41e-6c94568c4bc9">
-<hr>
+# 👋 Hey there! I'm a MERN Stack Developer
 
-<div <p  align="center"> 
-  <a   href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="180px" src="https://github-profile-trophy.vercel.app/?username=hasrat270&margin-w=10&margin-h=10&row=4&column=4" alt="hasrat270" />
-  </a> 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </div>
-<hr>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently doing Bachelors of Science in **(Software Engineering)**
+---
 
-- 🌱 I’m currently Improving and learning **MERN Stack**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
+```javascript
+const developer = {
+    name: "MERN Stack Developer",
+    location: "Pakistan 🇵🇰",
+    code: ["JavaScript", "HTML", "CSS", "Node.js"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js"],
+            css: ["Tailwind CSS", "Shadcn/ui"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            database: ["MongoDB"]
+        },
+        tools: ["Postman", "Thunder Client", "Git"],
+        architecture: ["RESTful APIs", "MVC Pattern"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
-- 📝 I regularly write articles on [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
+---
 
-- 💬 Ask me about *React, MongoDB, NodeJS, JavaScript, Express, Tailwind CSS**
+## 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **hasrat3701@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://hasratportfolio.netlify.app/](https://hasratportfolio.netlify.app/)
+### Frontend Technologies
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
-- ⚡ Fun fact **I think i am a Funny guy ;)**
+### Backend Technologies  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<p align="left">
-</p>
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>  
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</a>
-</p>
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasrat270&show_icons=true&locale=en" alt="hasrat270" />
-</p>
+---
 
-<h3 align="left">Thanks for Visiting !   
-  <img width="36px" src="https://github.com/user-attachments/assets/c80595a9-b979-4d89-ba6f-b86e188d8eed"> 
-</h3>
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasrat270&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasrat270&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasrat270&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasrat270&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Frontend Development
+- ⚛️ **React.js** - Building dynamic UIs
+- 🎨 **Tailwind CSS** - Responsive designs
+- 🌟 **Shadcn/ui** - Modern components
+- 📱 **Mobile-First** - Responsive approach
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+- 🟢 **Node.js** - Server-side JavaScript
+- 🚀 **Express.js** - RESTful APIs
+- 🍃 **MongoDB** - NoSQL database
+- 🔐 **Authentication** - Secure applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=YOUR_PROJECT_1&theme=tokyonight)](https://github.com/Hasrat270/YOUR_PROJECT_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=YOUR_PROJECT_2&theme=tokyonight)](https://github.com/Hasrat270/YOUR_PROJECT_2)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph TD
+    A[MERN Stack Development] --> B[React.js Frontend]
+    A --> C[Node.js Backend]
+    A --> D[MongoDB Database]
+    A --> E[Express.js APIs]
+    
+    B --> F[Tailwind CSS]
+    B --> G[Shadcn/ui Components]
+    
+    C --> H[RESTful Services]
+    C --> I[Authentication]
+    
+    D --> J[Database Design]
+    D --> K[Data Modeling]
+    
+    E --> L[API Development]
+    E --> M[Middleware]
+```
+
+---
+
+## 🏅 Achievements & Certifications
+
+<details>
+<summary>📜 Click to expand</summary>
+
+- 🎓 **MERN Stack Development** - Self-taught and project-experienced
+- 🏆 **Full-Stack Projects** - Multiple completed applications
+- 📚 **Continuous Learning** - Always exploring new technologies
+- 🔧 **Problem Solving** - Debug-driven development approach
+
+</details>
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💡 Open for opportunities and collaborations!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+**⭐ Star my repositories if you find them interesting!**
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
