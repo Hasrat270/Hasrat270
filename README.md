@@ -73,11 +73,11 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasrat270&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasrat270&theme=tokyonight" 
-       alt="GitHub Streak" 
-       onerror="this.src='https://via.placeholder.com/495x195/1a1b27/7aa2f7?text=Stats+Unavailable'" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasrat270&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 
 
 ## 🟢 Contribution Activity
