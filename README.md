@@ -73,9 +73,10 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasrat270&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasrat270&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=hasrat270)](https://git.io/streak-stats)    
+</div>
+
 
 
 
