@@ -40,7 +40,7 @@ const developer = {
 </td>
 <td width="45%" align="center">
 
-<img alt="Coding" width="100%" style="border-radius: 15px; margin: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Node.js Animation" width="100%" style="border-radius: 15px; margin: 10px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e69ab290704783.5e39e8ad5f86f.gif">
 
 </td>
 </tr>
