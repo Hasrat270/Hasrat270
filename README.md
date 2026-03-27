@@ -1,142 +1,41 @@
-<div align="center">
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXp6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jzHFPlw89eT2U/giphy.gif" width="30"> Terminal Context: Hasrat270
 
-# 👋 Hello! I'm a Full-Stack MERN Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Web+App+Pentester;BSSE+Student;Intern+@+LA+Consultancy" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-<table>
-<tr>
-<td width="55%" align="left">
-
-```javascript
-const developer = {
-    name: "Full Stack MERN Developer",
-    location: "Pakistan 🇵🇰",
-    languages: ["JavaScript", "HTML", "CSS", "Node.js"],
-    expertise: {
-        frontend: {
-            frameworks: ["React.js"],
-            styling: ["Tailwind CSS", "Shadcn/ui"]
-        },
-        backend: {
-            runtime: ["Node.js", "Express.js"],
-            database: ["MongoDB"]
-        },
-        tools: ["Postman", "Thunder Client", "Git"],
-        architecture: ["RESTful APIs", "MVC Pattern"]
-    },
-    currentFocus: "Building scalable and responsive web applications",
-    passion: "Clean code, problem-solving, and continuous learning"
-};
-```
-
-</td>
-<td width="45%" align="center">
-
-<img alt="Node.js Animation" width="100%" style="border-radius: 15px; margin: 10px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e69ab290704783.5e39e8ad5f86f.gif">
-
-</td>
-</tr>
-</table>
-</div>
+### 🚀 Who Am I?
+- 🎓 **Academic**: BSSE Student (5th Semester)
+- 💻 **Dev Stack**: MERN (React, Node.js, Express, MongoDB) & Next.js
+- 🛡️ **Cyber Ops**: Web App Penetration Testing | Kali Linux User
+- 🏢 **Professional**: Currently interning at **LA Consultancy**
 
 ---
 
-## 🛠️ Technical Stack
-
-<div align="center">
-
-### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-### Backend Technologies  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
+### 🛠️ Core Arsenal
+| **Development** | **Security & Ops** |
+| :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![BurpSuite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=portswigger&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Metasploit](https://img.shields.io/badge/-Metasploit-2496ED?logo=metasploit&logoColor=white) |
 
 ---
 
-## 💼 Core Competencies
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 Frontend Development
-— ⚛️ **React.js** — Building dynamic and interactive user interfaces
-— 🎨 **Tailwind CSS** — Creating responsive and modern designs
-— 🌟 **Shadcn/ui** — Implementing reusable component libraries
-— 📱 **Mobile-First Design** — Ensuring optimal experience across all devices
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend Development
-— 🟢 **Node.js** — Server-side JavaScript runtime
-— 🚀 **Express.js** — Building robust RESTful APIs
-— 🍃 **MongoDB** — NoSQL database design and management
-— 🔐 **Authentication & Security** — Implementing secure application architecture
-
-</td>
-</tr>
-</table>
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hasrat270&show_icons=true&theme=dark&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasrat270&layout=compact&theme=dark&hide_border=true" width="40%" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 🔐 Bug Bounty & Labs
+- **HackerOne**: [hasrat_afridi](https://hackerone.com/hasrat_afridi)
+- **HTB / TryHackMe**: Active Learner & Lab Solver
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=Movies_App_By_Hasrat&theme=tokyonight)](https://github.com/Hasrat270/Movies_App_By_Hasrat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasrat270&repo=Mern_Stack_Chat_App_by_hasrat&theme=tokyonight)](https://github.com/Hasrat270/Mern_Stack_Chat_App_by_hasrat)
-
-</div>
-
----
-
-## 🏅 Professional Experience
-
-<details>
-<summary>📜 Expand to view achievements and expertise</summary>
-
-— 🎓 **MERN Stack Development** — Self-taught developer with hands-on project experience
-— 🏆 **Full-Stack Applications** — Designed and deployed multiple complete applications
-— 📚 **Continuous Learning** — Actively exploring and implementing emerging technologies
-— 🔧 **Problem-Solving** — Strong debugging and analytical skills with a practical approach
-— 🤝 **Collaborative Development** — Experience working with RESTful APIs and modern development practices
-
-</details>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-### 💡 Open to Opportunities and Collaborations
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
-I am passionate about connecting with fellow developers and exploring exciting opportunities. Whether you're interested in collaborating on a project or just want to chat about technology, feel free to reach out!
-
----
-
-**⭐ If you find my repositories useful, please consider giving them a star!**
-
-<img src="https://komarev.com/ghpvc/?username=Hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p align="right">
+  <i>"Writing code to build, breaking code to secure."</i>
+</p>
