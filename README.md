@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm a MERN Stack Developer
+# 👋 Hello! I'm a Full-Stack MERN Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -17,23 +17,23 @@
 
 ```javascript
 const developer = {
-    name: "MERN Stack Developer",
+    name: "Full Stack MERN Developer",
     location: "Pakistan 🇵🇰",
-    code: ["JavaScript", "HTML", "CSS", "Node.js"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js"],
-            css: ["Tailwind CSS", "Shadcn/ui"]
+    languages: ["JavaScript", "HTML", "CSS", "Node.js"],
+    expertise: {
+        frontend: {
+            frameworks: ["React.js"],
+            styling: ["Tailwind CSS", "Shadcn/ui"]
         },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
+        backend: {
+            runtime: ["Node.js", "Express.js"],
             database: ["MongoDB"]
         },
         tools: ["Postman", "Thunder Client", "Git"],
         architecture: ["RESTful APIs", "MVC Pattern"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+    currentFocus: "Building scalable and responsive web applications",
+    passion: "Clean code, problem-solving, and continuous learning"
 };
 ```
 
@@ -49,7 +49,7 @@ const developer = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -66,26 +66,26 @@ const developer = {
 
 ---
 
-## 💼 What I Do
+## 💼 Core Competencies
 
 <table align="center">
 <tr>
 <td width="50%">
 
 ### 🎯 Frontend Development
-- ⚛️ **React.js** - Building dynamic UIs
-- 🎨 **Tailwind CSS** - Responsive designs
-- 🌟 **Shadcn/ui** - Modern components
-- 📱 **Mobile-First** - Responsive approach
+— ⚛️ **React.js** — Building dynamic and interactive user interfaces
+— 🎨 **Tailwind CSS** — Creating responsive and modern designs
+— 🌟 **Shadcn/ui** — Implementing reusable component libraries
+— 📱 **Mobile-First Design** — Ensuring optimal experience across all devices
 
 </td>
 <td width="50%">
 
 ### ⚙️ Backend Development
-- 🟢 **Node.js** - Server-side JavaScript
-- 🚀 **Express.js** - RESTful APIs
-- 🍃 **MongoDB** - NoSQL database
-- 🔐 **Authentication** - Secure applications
+— 🟢 **Node.js** — Server-side JavaScript runtime
+— 🚀 **Express.js** — Building robust RESTful APIs
+— 🍃 **MongoDB** — NoSQL database design and management
+— 🔐 **Authentication & Security** — Implementing secure application architecture
 
 </td>
 </tr>
@@ -102,16 +102,18 @@ const developer = {
 
 </div>
 
+---
 
-## 🏅 Achievements & Certifications
+## 🏅 Professional Experience
 
 <details>
-<summary>📜 Click to expand</summary>
+<summary>📜 Expand to view achievements and expertise</summary>
 
-- 🎓 **MERN Stack Development** - Self-taught and project-experienced
-- 🏆 **Full-Stack Projects** - Multiple completed applications
-- 📚 **Continuous Learning** - Always exploring new technologies
-- 🔧 **Problem Solving** - Debug-driven development approach
+— 🎓 **MERN Stack Development** — Self-taught developer with hands-on project experience
+— 🏆 **Full-Stack Applications** — Designed and deployed multiple complete applications
+— 📚 **Continuous Learning** — Actively exploring and implementing emerging technologies
+— 🔧 **Problem-Solving** — Strong debugging and analytical skills with a practical approach
+— 🤝 **Collaborative Development** — Experience working with RESTful APIs and modern development practices
 
 </details>
 
@@ -121,13 +123,15 @@ const developer = {
 
 <div align="center">
 
-### 💡 Open for opportunities and collaborations!
+### 💡 Open to Opportunities and Collaborations
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+I am passionate about connecting with fellow developers and exploring exciting opportunities. Whether you're interested in collaborating on a project or just want to chat about technology, feel free to reach out!
 
 ---
 
-**⭐ Star my repositories if you find them interesting!**
+**⭐ If you find my repositories useful, please consider giving them a star!**
 
 <img src="https://komarev.com/ghpvc/?username=Hasrat270&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
