@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello! I'm a Full-Stack MERN Developer
+# 👋 Hello! I'm a MERN Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
 
